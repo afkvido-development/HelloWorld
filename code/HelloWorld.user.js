@@ -8,6 +8,6 @@
 // @description Hello World script that triggers on any website
 // ==/UserScript==
 
-alert("hi");
+alert("Hello, World!");
 
 // Explanation: https://violentmonkey.github.io/guide/creating-a-userscript/
